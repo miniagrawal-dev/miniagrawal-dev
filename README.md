@@ -9,40 +9,12 @@ Senior Software Engineer with 9 years of experience building scalable backend sy
 * Experienced in Spring Boot, Kafka, Kubernetes, AWS and Distributed Systems
 * Currently preparing for Senior/Staff Engineer opportunities in Europe
 
-## Tech Stack
+## Experience Highlights
 
-### Backend
-
-* Java
-* Spring Boot
-* REST APIs
-* JPA/Hibernate
-
-### Messaging
-
-* Apache Kafka
-* IBM MQ
-
-### Databases
-
-* PostgreSQL
-* MongoDB
-* Azure Cosmos DB
-* SQL server
-* DynamoDB
-
-### Cloud & DevOps
-
-* AWS
-* Azure
-* Docker
-* Kubernetes
-
-### Observability
-
-* Splunk
-* Prometheus
-* Grafana
+- 5+ years at Walmart
+- Previously worked at Amazon
+- Previously worked at Samsung
+- 9 years of backend engineering experience
 
 ## Featured Projects
 
@@ -89,6 +61,42 @@ Resume ranking system using embeddings and LLMs.
 
 Automated resume tailoring and ATS optimization.
 
+
+## Tech Stack
+
+### Backend
+
+* Java
+* Spring Boot
+* REST APIs
+* JPA/Hibernate
+
+### Messaging
+
+* Apache Kafka
+* IBM MQ
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+* Azure Cosmos DB
+* SQL server
+* DynamoDB
+
+### Cloud & DevOps
+
+* AWS
+* Azure
+* Docker
+* Kubernetes
+
+### Observability
+
+* Splunk
+* Prometheus
+* Grafana
+
 ## Currently Learning
 
 * AWS Solutions Architect Associate
@@ -98,6 +106,6 @@ Automated resume tailoring and ATS optimization.
 
 ## Connect With Me
 
-LinkedIn: [<your-linkedin-url>](https://www.linkedin.com/in/mini-agrawal/)
+LinkedIn: https://www.linkedin.com/in/mini-agrawal/
 
 GitHub: https://github.com/miniagrawal-dev
