@@ -28,6 +28,8 @@ Senior Software Engineer with 9 years of experience building scalable backend sy
 * PostgreSQL
 * MongoDB
 * Azure Cosmos DB
+* SQL server
+* DynamoDB
 
 ### Cloud & DevOps
 
