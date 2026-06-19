@@ -41,6 +41,22 @@ Features:
 * Autocomplete
 * Inverted Index
 
+### Redis User Cache
+
+Spring Boot + Redis + PostgreSQL
+
+Built a production-style caching layer using Redis and PostgreSQL implementing:
+
+* Cache Aside Pattern
+* TTL-based cache expiration
+* Cache Eviction using Spring Cache
+* Redis-based API Rate Limiting
+* Performance optimization through in-memory caching
+
+Key Concepts:
+Redis, Spring Cache, Caching Strategies, TTL, Cache Invalidation, Rate Limiting, Distributed Systems
+
+
 ### Kubernetes Deployment
 
 Spring Boot deployment on Kubernetes using:
