@@ -1,6 +1,6 @@
 # Hi, I'm Mini Agrawal 👋
 
-Senior Software Engineer with 9 years of experience building scalable backend systems and distributed applications.
+Senior Software Engineer with 9+ years of experience building scalable backend systems and distributed applications.
 
 ## About Me
 
